@@ -1,2 +1,2 @@
 # first_repo
-practice purpose only 
+this is for the practice purpose only 
